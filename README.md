@@ -15,7 +15,7 @@ This Google Colab notebook copies the full content of a **shared Google Drive fo
 
 ## Usage
 
-1. Open the `copy-gdrive-folder.ipynb` notebook in [Google Colab](https://colab.research.google.com).
+1. Open the [copy-gdrive-folder.ipynb](https://github.com/https-guru/Google-Colab-Copy-GDrive-Folder/blob/main/copy_gdrive_folder.ipynb) notebook in [Google Colab](https://colab.research.google.com).
 2. Edit the cell with the two configuration variables:
 
     ```
@@ -35,4 +35,5 @@ This Google Colab notebook copies the full content of a **shared Google Drive fo
 - Shared Google Drive folder URL must be accessible ("Anyone with the link" permission).
 
 ---
+
 
