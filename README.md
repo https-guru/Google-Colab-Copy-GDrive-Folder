@@ -36,6 +36,3 @@ This Google Colab notebook copies the full content of a **shared Google Drive fo
 
 ---
 
-## Author
-
-Your Name - [GitHub Profile](https://github.com/https_guru)
